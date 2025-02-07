@@ -15,7 +15,7 @@
 
 ###
 
-<p align="center">I love making things run smoother, faster, and smarter. Whether it's optimizing code to use less memory, or designing a system that just works, I’m always looking for the best approach.<br>I enjoy tackling complex problems, building different kinds of applications and information systems, and making sure they’re not just functional, but also efficient and well-structured. <br><br>I believe good code isn’t just about solving a problem—it’s about solving it efficiently and sustainably.</p>
+<p align="center">I love making things run smoother, faster, and smarter. <br>Whether it's optimizing code to use less memory, or designing a system that is well structured.<br>I enjoy tackling complex problems, building different kinds of applications and information systems<br><br>I believe good code isn’t just about solving a problem—it’s about solving it efficiently and sustainably.</p>
 
 ###
 
